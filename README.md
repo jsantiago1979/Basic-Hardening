@@ -1,2 +1,3 @@
 # Basic-Hardening
 # 1. Update System echo "[*] Updating packages..." sudo apt update &amp;&amp; sudo apt upgrade -y  # 2. Configure SSH read -p "Enter desired SSH Port (e.g., 2222): " SSH_PORT echo "[*] Hardening SSH.......
+https://santiagovibes616.gumroad.com/l/ckbopo
